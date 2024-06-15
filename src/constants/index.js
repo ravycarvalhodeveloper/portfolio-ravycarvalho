@@ -72,7 +72,7 @@ export const PROJECTS = [
     description:
       "Um site de portfólio pessoal apresentando projetos, habilidades e informações de contato.",
     technologies: ["React", "Tailwind"],
-    url: ""
+    url: "https://portfolio-ravycarvalho.vercel.app/"
   },
   {
     title: "Landing Page",
