@@ -28,7 +28,7 @@ export const EXPERIENCES = [
     year: "2021 - 2023",
     role: "Desenvolvedor Autônomo",
     company: "Inov Desginer",
-    description: `Trabalhei na crição de Landing pages e websites para empresas locais, com foco principal é fornecer soluções digitais com a identidade única de cada empresa, com objetivos de atingir números comerciais positivos.`,
+    description: `Trabalhei na crição de Landing pages e websites para empresas locais, com foco principal em fornecer soluções digitais com a identidade única de cada empresa, com objetivos de atingir números comerciais positivos.`,
     technologies: ["Html", "CSS", "JavaScript" , "React.js"],
   },
 ];
