@@ -19,7 +19,7 @@ export default function Projects() {
                         className="w-full lg:w-1/4">
                         <a target="_blank" href={project.url}>
                         <img src={project.image} width={150} height={150} alt={project.title} 
-                            className="mb-6 rounded hover:shadow-lg hover:cursor-pointer"
+                            className="mb-6 rounded hover:shadow-lg hover:cursor-pointer hover:scale-105 transition-all"
                         />
                         </a>
                         </motion.div>
