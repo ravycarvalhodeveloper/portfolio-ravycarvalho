@@ -55,7 +55,7 @@ export const PROJECTS = [
     image: project3,
     description:
       "O objetivo deste projeto é criar uma aplicação que permita aos usuários pesquisar filmes e obter informações detalhadas sobre eles, consumindo a API do The Movie Database (TMDB). Além disso, os usuários poderão registrar seus filmes favoritos para acesso rápido.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+    technologies: ["HTML", "CSS", "React", "Firebase"],
     url: "https://start-movie.vercel.app/"
   },
   {
