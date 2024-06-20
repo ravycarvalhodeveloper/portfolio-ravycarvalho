@@ -29,7 +29,7 @@ export default function Hero() {
                           variants={container(0.5)}
                           initial="hidden"
                           animate="visible"
-                        className="bg-gradient-to-r from-slate-900  via-slate-600 to-neutral-400 bg-clip-text text-3xl tracking-tight text-transparent" >Full Stack Developer
+                        className="bg-gradient-to-r from-slate-900  via-slate-600 to-neutral-400 bg-clip-text text-3xl tracking-tight text-transparent" >Front-end Developer
 
                         </motion.span>
                         <motion.p 
