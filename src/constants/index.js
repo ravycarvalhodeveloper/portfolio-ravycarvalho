@@ -21,7 +21,7 @@ export const EXPERIENCES = [
     year: "2023 - 2027",
     role: "Estudante",
     company: "Unopar",
-    description: `Em 2023 dei início ao meu curso de Sistemas de informação na universidade UNOPAR`,
+    description: `Em 2023 dei início ao meu curso de Sistemas de informação na universidade UNOPAR.`,
     technologies: ["Html", "CSS", "JavaScript" , "React.js", "Java", "C++", "Sql"],
   },
   {
