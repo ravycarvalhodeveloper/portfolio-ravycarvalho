@@ -12,7 +12,7 @@ export const ABOUT_TEXT = `Sou um desenvolvedor full stack dedicado e versátil,
 export const EXPERIENCES = [
   {
     year: "2024 - Atualmente",
-    role: "Desenvolvedor Full Stack",
+    role: "Desenvolvedor Front-end",
     company: "Agência Elevart",
     description: `Na Agência Elevart, tenho a oportunidade de colaborar com uma equipe talentosa para desenvolver websites e landing pages que não apenas impressionam visualmente, mas também oferecem uma experiência de usuário impecável. Desde o primeiro dia, tenho trabalhado arduamente para garantir que cada projeto atenda aos mais altos padrões de qualidade, integrando as últimas tendências de design com uma abordagem centrada na acessibilidade.`,
     technologies: ["Javascript", "React.js", "Next.js","Firebase", "mongoDB"],
