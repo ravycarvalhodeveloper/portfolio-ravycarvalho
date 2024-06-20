@@ -4,7 +4,7 @@ import { motion} from 'framer-motion'
 
 export default function About() {
     return (
-        <div className="border-b border-neutral-400/60 pb-10 pt-10 flex justify-center flex-col items-center ">
+        <div className="border-b border-neutral-400/60 pb-10 pt-5 flex justify-center flex-col items-center ">
             <h1 className="my-2 mb-10 text-center text-4xl ">Sobre <span className="text-neutral-500">mim</span></h1>
             
             <div className="flex flex-wrap w-full lg:w-5/6 ">
